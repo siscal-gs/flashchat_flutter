@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "991997650546",
+    "project_id": "flashchat-simo",
+    "storage_bucket": "flashchat-simo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991997650546:android:c9b1e902894133f97604eb",
+        "android_client_info": {
+          "package_name": "com.siscal.flashchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991997650546-ae5tma9t0sdcgt5kv71e94jjtbi1tdmn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoWKsX1GnNleOtQPXGCJxlIwXvPcvQ-JU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991997650546-ae5tma9t0sdcgt5kv71e94jjtbi1tdmn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
